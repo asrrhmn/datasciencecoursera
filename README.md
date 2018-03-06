@@ -1,5 +1,5 @@
 ## datasciencecoursera
-John Hopkins Data Science Specialization
-Author : Anis Rahman
+John Hopkins Data Science Specialization <br />
+Author : Anis Rahman <br />
 
 Started the course specialization on Feb 2018, planned to complete specialization by April 2018
